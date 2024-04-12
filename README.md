@@ -9,6 +9,10 @@ El proyecto solo esta como ejemplo el listar a los perros, utilizando useEffect 
 
 Se incluye diagrama de base de datos Mysql construido con Mysql workbench
 
+![](https://github.com/kzzr/cmpc/blob/ed6039b06d7694ca2cf8cb89d9ccb47d4d87b400/1/Screen1.png)
+
+![](https://github.com/kzzr/cmpc/blob/ed6039b06d7694ca2cf8cb89d9ccb47d4d87b400/1/Screen2.png)
+
 ### Pregunta 2
 
 En la carpeta 2 , se encuentra un archivo PREGUNTAS.sql que responde a cada caso mensionado en las rubricas
